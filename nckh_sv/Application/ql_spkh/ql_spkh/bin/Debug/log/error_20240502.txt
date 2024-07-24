@@ -1,0 +1,4 @@
+[2024-05-02 22:24:37] ERROR: Load version Warning (Warning)
+[2024-05-02 22:25:17] ERROR: Requested Clipboard operation did not succeed.
+[2024-05-02 22:27:53] ERROR: Load version Warning (Warning)
+[2024-05-02 22:28:02] ERROR: Load version Warning (Warning)

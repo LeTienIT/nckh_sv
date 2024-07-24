@@ -1,0 +1,13 @@
+[2024-04-19 08:06:05] ERROR: There is no row at position 0.
+[2024-04-19 08:06:05] ERROR: Load version Warning (Warning)
+[2024-04-19 08:06:16] ERROR: There is no row at position 0.
+[2024-04-19 08:06:16] ERROR: Load version Warning (Warning)
+[2024-04-19 08:06:21] ERROR: Requested Clipboard operation did not succeed.
+[2024-04-19 08:06:30] ERROR: There is no row at position 0.
+[2024-04-19 08:06:30] ERROR: Load version Warning (Warning)
+[2024-04-19 08:06:35] ERROR: Requested Clipboard operation did not succeed.
+[2024-04-19 08:06:43] ERROR: There is no row at position 0.
+[2024-04-19 08:06:43] ERROR: Load version Warning (Warning)
+[2024-04-19 08:06:48] ERROR: Requested Clipboard operation did not succeed.
+[2024-04-19 08:07:38] ERROR: Load version Warning (Warning)
+[2024-04-19 08:09:29] ERROR: Load version Warning (Warning)
